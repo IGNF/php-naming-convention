@@ -1,0 +1,19 @@
+{
+    "name": "ign/naming-convention",
+    "description": "IGNF naming convention for PHP components",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ign\\NamingConvention\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MBorne",
+            "email": "mickael.borne@ign.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
