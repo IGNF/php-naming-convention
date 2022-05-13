@@ -1,4 +1,4 @@
-# php-naming-convention
+# PHP - Convention de nommage
 
 ## Au niveau composer.json
 
